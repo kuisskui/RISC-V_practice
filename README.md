@@ -1,1 +1,1 @@
-# RISC-V_practice
+# RISC-V_workshop
